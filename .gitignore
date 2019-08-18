@@ -1,0 +1,5 @@
+lookups/*
+*.pyc
+.vscode
+.DS_Store
+bin/test.py

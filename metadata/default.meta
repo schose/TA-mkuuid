@@ -1,0 +1,8 @@
+[]
+access = read: [ * ], write : [ admin ]
+
+[commands/mkuuid]
+export = system
+
+[searchbnf/mkuuid-command]
+export = system
